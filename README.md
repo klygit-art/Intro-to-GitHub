@@ -1,10 +1,11 @@
 # Intro-to-GitHub
 
-This repository is a simple introduction to GitHub. It contains three files:
+This repository is a simple introduction to GitHub. It contains four files:
 
 - `README.md`: This file provides an overview of the repository and its contents.
 - `index.html`: A basic HTML file with some text and images.
 - `styles.css`: A CSS file that styles the HTML file.
+- `logo.png`: The logo image for this repository. 
 
 You can use this repository to learn the basics of GitHub, such as how to create a repository, add files, and collaborate with others.
 
