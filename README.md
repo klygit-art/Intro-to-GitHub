@@ -21,7 +21,6 @@ I welcome contributions to this repository. If you have any suggestions or impro
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file   
- for more details.
+This repository is licensed under the MIT License.
 
 I hope you find this repository helpful!
